@@ -1,3 +1,3 @@
-module github.com/vikaputri/go-say-hello/v2
+module github.com/vikaputri/go-say-hello
 
 go 1.18
